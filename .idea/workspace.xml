@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -22,7 +25,6 @@
     <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/example/sm_scan/SmScanPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/example/sm_scan/SmScanPlugin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593681627197</updated>
-      <workItem from="1597369309737" duration="1812000" />
+      <workItem from="1597369309737" duration="2299000" />
     </task>
     <servers />
   </component>
@@ -106,10 +108,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="377" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593737469264" />
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom" timestamp="1597371324879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597371324879" />
+    <state width="1877" height="231" key="GridCell.Tab.0.center" timestamp="1597371324879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597371324879" />
+    <state width="1877" height="231" key="GridCell.Tab.0.left" timestamp="1597371324879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597371324879" />
+    <state width="1877" height="231" key="GridCell.Tab.0.right" timestamp="1597371324879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597371324879" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1597370280143">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597370280143" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597371264686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597371264686" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597370133304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
