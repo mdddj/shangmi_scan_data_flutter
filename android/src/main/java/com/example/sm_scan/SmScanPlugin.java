@@ -91,7 +91,7 @@ public class SmScanPlugin implements FlutterPlugin, MethodCallHandler {
                 String code = intent.getStringExtra(DATA);
                 byte[] arr = intent.getByteArrayExtra(SOURCE);
                 if (code != null && !code.isEmpty()) {
-                    System.out.println("商米手机接收到广播数据>>>>>>>>>>>>>>>>>>>>>>>>"+code);
+                    System.out.println("商米手机接收到广播数据>>>>>>>>>>>>>>>>>>>>>>>>>"+code);
                     events.success(code);
                 }
 
