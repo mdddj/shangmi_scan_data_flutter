@@ -8,7 +8,7 @@
 static const EventChannel _eventChannel = EventChannel('smscan.flutter.io/charging');
 ```
 
-`initState` 初始化
+在`initState` 初始化
 
 ```dart
 _eventChannel.receiveBroadcastStream().listen((value) {
