@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597390996229</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="删除了一些注释">
+      <created>1597391447286</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597391447286</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,10 +212,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597391123714" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597391004515">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597391453912">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597391004515" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597391453912" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597370133304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
