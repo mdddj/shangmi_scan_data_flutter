@@ -1,6 +1,13 @@
 
 商米手机(带扫描头)接收红外扫描头发送的广播数据,返回到flutter app
 
+# 引入依赖
+```dart
+sm_scan:
+    git:
+      url: git://github.com/mdddj/shangmi_scan_data_flutter.git
+```
+
 # 如何使用
 
 引入插件后,在需要获取获取扫描头数据的页面,创建:
