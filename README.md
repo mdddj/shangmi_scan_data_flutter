@@ -5,7 +5,7 @@
 
 引入插件后,在需要获取获取扫描头数据的页面,创建:
 ```dart
-static const EventChannel _eventChannel = EventChannel('smscan.flutter.io/charging');
+static const EventChannel _eventChannel = EventChannel('shangmi_flutter');
 ```
 
 在`initState` 初始化

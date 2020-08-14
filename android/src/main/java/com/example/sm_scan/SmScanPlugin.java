@@ -36,7 +36,7 @@ public class SmScanPlugin implements FlutterPlugin, MethodCallHandler {
     private static final String DATA = "data";
     private static final String SOURCE = "source_byte";
 
-    private static final String CHARGING_CHANNEL = "smscan.flutter.io/charging";
+    private static final String CHARGING_CHANNEL = "shangmi_flutter";
 
     @Override
     public void onAttachedToEngine(@NonNull FlutterPluginBinding flutterPluginBinding) {
