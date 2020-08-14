@@ -7,6 +7,14 @@ sm_scan:
     git:
       url: git://github.com/mdddj/shangmi_scan_data_flutter.git
 ```
+<<<<<<< HEAD
+=======
+添加包到`pubspec.yaml`文件中
+```dart
+dependencies:
+  sm_scan: ^0.0.2
+```
+>>>>>>> 05b0a0cdffd68a30fb902b6a59e650cf5a48013a
 
 # 如何使用
 
