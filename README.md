@@ -8,6 +8,11 @@ sm_scan:
       url: git://github.com/mdddj/shangmi_scan_data_flutter.git
 ```
 
+```dart
+dependencies:
+  sm_scan: ^0.0.2
+```
+
 # 如何使用
 
 引入插件后,在需要获取获取扫描头数据的页面,创建:
