@@ -6,6 +6,8 @@
 
 商米手机(带扫描头)接收红外扫描头发送的广播数据,返回到flutter app
 
+pub.dev地址:[fly](https://pub.dev/packages/sm_scan)
+
 # 引入依赖
 ```dart
 sm_scan:
