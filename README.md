@@ -1,5 +1,5 @@
 
-商米L2 手机接收广播数据flutter插件
+商米手机(带扫描头)接收红外扫描头发送的广播数据,返回到flutter app
 
 # 如何使用
 
@@ -16,4 +16,5 @@ _eventChannel.receiveBroadcastStream().listen((value) {
 }); 
 ```
 
-最后附上官方开发指南[扫码头开发及用户文档.pdf](http://sunmi-ota.oss-cn-hangzhou.aliyuncs.com/DOC/resource/re_cn/%E6%89%AB%E7%A0%81%E5%A4%B4/%E6%89%AB%E7%A0%81%E5%A4%B4%E5%BC%80%E5%8F%91%E5%8F%8A%E7%94%A8%E6%88%B7%E6%96%87%E6%A1%A3.pdf)
+# 附件
+[扫码头开发及用户文档.pdf](http://sunmi-ota.oss-cn-hangzhou.aliyuncs.com/DOC/resource/re_cn/%E6%89%AB%E7%A0%81%E5%A4%B4/%E6%89%AB%E7%A0%81%E5%A4%B4%E5%BC%80%E5%8F%91%E5%8F%8A%E7%94%A8%E6%88%B7%E6%96%87%E6%A1%A3.pdf)
