@@ -1,4 +1,8 @@
 
+[![GitHub issues](https://img.shields.io/github/issues/mdddj/shangmi_scan_data_flutter)](https://github.com/mdddj/shangmi_scan_data_flutter/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mdddj/shangmi_scan_data_flutter)](https://github.com/mdddj/shangmi_scan_data_flutter/network)
+[![GitHub stars](https://img.shields.io/github/stars/mdddj/shangmi_scan_data_flutter)](https://github.com/mdddj/shangmi_scan_data_flutter/stargazers)
+[![GitHub license](https://img.shields.io/github/license/mdddj/shangmi_scan_data_flutter)](https://github.com/mdddj/shangmi_scan_data_flutter/blob/master/LICENSE)
 商米手机(带扫描头)接收红外扫描头发送的广播数据,返回到flutter app
 
 # 引入依赖
