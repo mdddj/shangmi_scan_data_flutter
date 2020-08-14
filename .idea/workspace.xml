@@ -22,8 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="删除了一些注释">
+    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="文档更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597391485821</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="文档更新">
+      <created>1597393124971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597393124971</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +191,8 @@
     <MESSAGE value="更换监听广播名" />
     <MESSAGE value="更换通道方法名称" />
     <MESSAGE value="删除了一些注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除了一些注释" />
+    <MESSAGE value="文档更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="文档更新" />
   </component>
   <component name="WindowStateProjectService">
     <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597389889605">
@@ -218,10 +227,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597391123714" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597391492556">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597393131093">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597391492556" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597393131093" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597370133304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
