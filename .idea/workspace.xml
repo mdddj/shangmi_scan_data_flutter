@@ -22,10 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="更换监听广播名">
+    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="更换通道方法名称">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/example/sm_scan/SmScanPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/example/sm_scan/SmScanPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="NFT10-GWGG-9H04057" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="L203201F00767" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -65,7 +64,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="sshConfigs" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -119,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597374802253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更换通道方法名称">
+      <created>1597375721765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597375721765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +147,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新文档" />
     <MESSAGE value="更换监听广播名" />
-    <option name="LAST_COMMIT_MESSAGE" value="更换监听广播名" />
+    <MESSAGE value="更换通道方法名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="更换通道方法名称" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597374425637">
@@ -168,14 +175,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597372526093" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1597370280143">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1597386945322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597370280143" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597374805137">
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597386945322" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597375731080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597374805137" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597375731080" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597370133304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
