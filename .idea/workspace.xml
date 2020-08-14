@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="更新文档">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593681627197</updated>
       <workItem from="1597369309737" duration="2847000" />
-      <workItem from="1597372265475" duration="627000" />
+      <workItem from="1597372265475" duration="930000" />
     </task>
     <task id="LOCAL-00001" summary="更新文档">
       <created>1597372860900</created>
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597372860901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新文档">
+      <created>1597372907053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597372907053</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,12 +115,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新文档" />
@@ -143,10 +152,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597370280143" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597372870075">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597372912031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597372870075" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597372912031" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597370133304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
