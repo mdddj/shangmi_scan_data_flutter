@@ -1,0 +1,2 @@
+# shangmi_scan_data_flutter
+商米L2 手机接收广播数据flutter插件
