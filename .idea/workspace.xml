@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="更新文档">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/example/sm_scan/SmScanPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/example/sm_scan/SmScanPlugin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597372907053</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新文档">
+      <created>1597373571923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597373571924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +135,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新文档" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597374425637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597374425637" />
     <state x="636" y="377" key="FileChooserDialogImpl" timestamp="1593737469264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -152,10 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597370280143" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597372912031">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597373578999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597372912031" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597373578999" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597370133304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
