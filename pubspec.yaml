@@ -1,10 +1,10 @@
 name: sm_scan
 description: A new flutter plugin project.
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/mdddj/shangmi_scan_data_flutter
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.10.0"
 
 dependencies:
