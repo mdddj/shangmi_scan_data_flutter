@@ -10,7 +10,7 @@
 
 #### 商米手持pda设备（android）主要应用于仓储，快递等ERP系统中。这个插件方便大家简单获取到它的红外头扫描到的条码数据
 
-pub.dev地址:[fly](https://pub.dev/packages/sm_scan)
+pub.dev地址: [https://pub.dev/packages/sm_scan](https://pub.dev/packages/sm_scan)
 
 # 引入依赖
 现已支持空安全
