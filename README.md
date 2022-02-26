@@ -13,7 +13,7 @@
 pub.dev地址: [https://pub.dev/packages/sm_scan](https://pub.dev/packages/sm_scan)
 
 # 引入依赖
-现已支持空安全
+支持空安全,适配Flutter2.10.1
 ```dart
 dependencies:
   sm_scan: ^2.0.0 
