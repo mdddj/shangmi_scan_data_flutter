@@ -25,18 +25,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="文档更新">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-    </list>
+    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="upgrade flutter version to 2.10.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +52,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -106,7 +96,7 @@
       <updated>1593681627197</updated>
       <workItem from="1597369309737" duration="2847000" />
       <workItem from="1597372265475" duration="930000" />
-      <workItem from="1645851675459" duration="187000" />
+      <workItem from="1645851675459" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="更新文档">
       <created>1597372860900</created>
@@ -199,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597393265725</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="upgrade flutter version to 2.10.1">
+      <created>1645851881396</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645851881397</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,48 +219,7 @@
     <MESSAGE value="更换通道方法名称" />
     <MESSAGE value="删除了一些注释" />
     <MESSAGE value="文档更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="文档更新" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597389889605">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="699" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597389889605" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597374425637">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597374425637" />
-    <state x="636" y="377" key="FileChooserDialogImpl" timestamp="1597394297266">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="636" y="377" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597394297266" />
-    <state width="1860" height="236" key="GridCell.Tab.0.bottom" timestamp="1597391133187">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1860" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597391133187" />
-    <state width="1860" height="236" key="GridCell.Tab.0.center" timestamp="1597391133187">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1860" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597391133187" />
-    <state width="1860" height="236" key="GridCell.Tab.0.left" timestamp="1597391133187">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1860" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597391133187" />
-    <state width="1860" height="236" key="GridCell.Tab.0.right" timestamp="1597391133187">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1860" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597391133187" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1597391123714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597391123714" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597393270160">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597393270160" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597370133304">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597370133304" />
+    <MESSAGE value="upgrade flutter version to 2.10.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgrade flutter version to 2.10.1" />
   </component>
 </project>
