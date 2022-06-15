@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:sm_scan/shangmi_scan_mixin.dart';
-import 'package:sm_scan/shangmi_util.dart';
 
 void main() {
   runApp(MyApp());
