@@ -31,7 +31,8 @@ Checking Android licenses is taking an unexpectedly long time...[✓] Android to
 ```
 
 # 引入依赖
-支持空安全,适配Flutter2.10.1
+
+
 ```dart
 dependencies:
   sm_scan: ^2.0.0 
