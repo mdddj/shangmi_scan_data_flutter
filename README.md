@@ -14,20 +14,8 @@ pub.dev地址: [https://pub.dev/packages/sm_scan](https://pub.dev/packages/sm_sc
 
 开发环境
 ```dart
-Doctor summary (to see all details, run flutter doctor -v):
 [✓] Flutter (Channel stable, 3.0.2, on macOS 12.4 21F79 darwin-arm (Rosetta),
     locale zh-Hans-CN)
-Checking Android licenses is taking an unexpectedly long time...[✓] Android toolchain - develop for Android devices (Android SDK version
-    32.1.0-rc1)
-[✓] Xcode - develop for iOS and macOS (Xcode 13.4.1)
-[✓] Chrome - develop for the web
-[✓] Android Studio (version 2021.2)
-[✓] Android Studio (version 2021.2)
-[✓] IntelliJ IDEA Ultimate Edition (version 2022.1.2)
-[✓] IntelliJ IDEA Ultimate Edition (version 2022.1.2)
-[✓] IntelliJ IDEA Ultimate Edition (version 2022.1.1)
-[✓] VS Code (version 1.68.0)
-[✓] Connected device (3 available)
 ```
 
 # 引入依赖
@@ -35,7 +23,7 @@ Checking Android licenses is taking an unexpectedly long time...[✓] Android to
 
 ```dart
 dependencies:
-  sm_scan: ^2.0.0 
+  sm_scan: ^3.0.0 
 ```
 
 # 如何使用
