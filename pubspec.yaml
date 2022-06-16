@@ -1,5 +1,5 @@
 name: sm_scan
-description: A new flutter plugin project.
+description: 商米手机带红外扫描器的条码数据获取插件,仅支持Android
 version: 3.0.1
 homepage: https://github.com/mdddj/shangmi_scan_data_flutter
 

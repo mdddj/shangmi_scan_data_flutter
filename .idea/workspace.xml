@@ -25,10 +25,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="更新文档">
+    <list default="true" id="367b36b7-5849-4b83-9269-340946e8ce62" name="Default Changelist" comment="update to `3.0.1`">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +91,7 @@
       <workItem from="1645851675459" duration="223000" />
       <workItem from="1655276050341" duration="1134000" />
       <workItem from="1655365294698" duration="1181000" />
-      <workItem from="1655366512399" duration="63000" />
+      <workItem from="1655366512399" duration="133000" />
     </task>
     <task id="LOCAL-00001" summary="更新文档">
       <created>1597372860900</created>
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655366389548</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update to `3.0.1`">
+      <created>1655366578451</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1655366578451</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +244,7 @@
     <MESSAGE value="upgrade flutter version to 2.10.1" />
     <MESSAGE value="适配flutter3.0" />
     <MESSAGE value="更新文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新文档" />
+    <MESSAGE value="update to `3.0.1`" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to `3.0.1`" />
   </component>
 </project>
