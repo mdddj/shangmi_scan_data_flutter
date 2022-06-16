@@ -1,6 +1,6 @@
 name: sm_scan
 description: A new flutter plugin project.
-version: 3.0.0
+version: 3.0.1
 homepage: https://github.com/mdddj/shangmi_scan_data_flutter
 
 environment:

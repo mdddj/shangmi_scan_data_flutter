@@ -14,8 +14,7 @@ pub.dev地址: [https://pub.dev/packages/sm_scan](https://pub.dev/packages/sm_sc
 
 开发环境
 ```dart
-[✓] Flutter (Channel stable, 3.0.2, on macOS 12.4 21F79 darwin-arm (Rosetta),
-    locale zh-Hans-CN)
+[✓] Flutter (Channel stable, 3.0.2, on macOS 12.4 21F79 
 ```
 
 # 引入依赖
@@ -23,7 +22,7 @@ pub.dev地址: [https://pub.dev/packages/sm_scan](https://pub.dev/packages/sm_sc
 
 ```dart
 dependencies:
-  sm_scan: ^3.0.0 
+  sm_scan: ^3.0.1 
 ```
 
 # 如何使用
