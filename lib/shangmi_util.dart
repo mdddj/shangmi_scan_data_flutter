@@ -1,15 +1,12 @@
 import 'dart:async';
 
-import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 /// 商米
 class ShangMiScanUtil {
   ShangMiScanUtil._();
-
-  factory ShangMiScanUtil() => ShangMiScanUtil._();
-
-  static ShangMiScanUtil get instance => ShangMiScanUtil._();
+  factory ShangMiScanUtil() => _instance;
+  static ShangMiScanUtil get _instance => ShangMiScanUtil._();
 
   EventChannel eventChannel = EventChannel('shangmi_flutter');
 

@@ -12,7 +12,7 @@ mixin ShangmiScanMixin<T extends StatefulWidget> on State<T> {
     super.initState();
 
     /// 开始监听流
-    streamSubscription = ShangMiScanUtil.instance.start().listen((event) {
+    streamSubscription = ShangMiScanUtil().start().listen((event) {
       if (event != null) {
         shangmiCodeHandle(event.toString());
       }
