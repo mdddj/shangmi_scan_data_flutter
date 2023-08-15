@@ -1,11 +1,11 @@
 name: sm_scan
 description: 商米手机带红外扫描器的条码数据获取插件,仅支持Android
-version: 4.0.0
+version: 5.0.0
 homepage: https://github.com/mdddj/shangmi_scan_data_flutter
 
 environment:
-  sdk: '>=2.18.6 <3.0.0'
-  flutter: ">=1.10.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
 
 dependencies:
   flutter:

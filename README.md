@@ -13,7 +13,7 @@
 
 ```dart
 dependencies:
-  sm_scan: ^4.0.0 
+  sm_scan: ^5.0.0 
 ```
 
 # 如何使用

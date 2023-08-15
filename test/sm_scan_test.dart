@@ -7,13 +7,10 @@ void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
   setUp(() {
-    channel.setMockMethodCallHandler((MethodCall methodCall) async {
+    TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger.setMockMethodCallHandler(channel,(message) async {
       return '42';
-    });
-  });
 
-  tearDown(() {
-    channel.setMockMethodCallHandler(null);
+    },);
   });
 
 
