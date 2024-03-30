@@ -6,16 +6,19 @@ import 'package:sm_scan/shangmi_util.dart';
 /// 商米扫描设备混入
 mixin ShangmiScanMixin<T extends StatefulWidget> on State<T> {
   late StreamSubscription streamSubscription;
+  final ShangMiScanUtil util = ShangMiScanUtil();
 
   @override
   void initState() {
     super.initState();
-
     /// 开始监听流
-    streamSubscription = ShangMiScanUtil().start().listen((event) {
-      if (event != null) {
-        shangmiCodeHandle(event.toString());
-      }
+    Future.microtask(() {
+      streamSubscription = util.start().listen((event) {
+        util.printLog("接收扫描数据:$event");
+        if (event != null) {
+          shangmiCodeHandle(event.toString());
+        }
+      });
     });
   }
 

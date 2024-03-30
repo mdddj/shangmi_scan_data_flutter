@@ -1,14 +1,22 @@
 import 'dart:async';
 
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-/// 商米
 class ShangMiScanUtil {
   ShangMiScanUtil._();
+
   factory ShangMiScanUtil() => _instance;
-  static ShangMiScanUtil get _instance => ShangMiScanUtil._();
+  static final ShangMiScanUtil _instance = ShangMiScanUtil._();
+  bool showLog = true;
 
   EventChannel eventChannel = EventChannel('shangmi_flutter');
+
+  void printLog(dynamic log) {
+    if (showLog) {
+      debugPrint('商米: $log');
+    }
+  }
 
   StreamSubscription? streamSubscription;
   Stream? stream;
@@ -22,6 +30,7 @@ class ShangMiScanUtil {
   void listen(ValueChanged<String> codeHandle) {
     streamSubscription = start().listen((event) {
       if (event != null) {
+        printLog('扫描到数据$event');
         codeHandle.call(event.toString());
       }
     });
